@@ -18,7 +18,7 @@ Kvrocks-controller is [Kvrocks](https://github.com/apache/incubator-kvrocks#---)
 ### Build kvrocks_controller
 
 ```shell
-git clone https://github.com/Kvrock
+git clone https://github.com/kvrocks_controller
 cd ./kvrocks_controller/cmd/kvrocks-controller/
 go build
 ```
@@ -83,7 +83,7 @@ controllers:       // kvrocks-controller address
 
   help command show all command usage info
 
-  ![help](./doc/images/help.png) 
+  ![help](./doc/images/help.png)
 
 ## Migrate
 
